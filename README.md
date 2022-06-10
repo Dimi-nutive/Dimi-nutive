@@ -8,7 +8,7 @@
   <a href="https://www.youtube.com/channel/UCvGrL7OlwM6yGTvOq8k4x1A">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="your-linkedin-URL">
+  <a href="https://discord.gg/p7j8XZq25B">
     <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
 </div>
