@@ -65,4 +65,4 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 
-### :writing_hand: Blog Posts :
+### :writing_hand: Some Projects:
