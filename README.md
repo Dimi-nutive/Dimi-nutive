@@ -54,4 +54,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="Blender" alt="blender" width="40" height"40"/>&nbsp;
 </div>
   
+  
+---
+
+### :fire: My Stats :  
 
