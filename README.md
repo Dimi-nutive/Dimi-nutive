@@ -34,6 +34,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :telescope: Python and HtmL are my expertise.
 - :seedling: A Web and bot developer
 
-- :zap: In my free time, I solve problems on StackOverflow, read tech articles and play games.
+- :zap: In my free time, I solve problems on StackOverflow, play typeracer, read tech articles :) 
 
 - :mailbox:How to reach me: Gmail - akulchaudhary07@gmail.com
