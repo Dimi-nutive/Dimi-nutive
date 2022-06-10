@@ -11,6 +11,9 @@
   <a href="https://discord.gg/p7j8XZq25B">
     <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
+  <a href="https://discord.gg/p7j8XZq25B">
+    <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
 </div>
 
 <img src="https://komarev.com/ghpvc/?username=Dimi-nutive&style=flat-square&color=blue" alt="" align="center"/>
