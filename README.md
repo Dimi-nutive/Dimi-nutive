@@ -66,4 +66,4 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### :writing_hand: Some Projects
-[easework](https://github.com/Dimi-nutive/easework)]
+[Easework](https://github.com/Dimi-nutive/easework)]
