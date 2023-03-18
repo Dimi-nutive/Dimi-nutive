@@ -4,7 +4,7 @@
 
 <h1>
   Hey There
-  <img src="https://i.pinimg.com/originals/15/e7/e3/15e7e300166c962d3b8a22f60b5cac9e.gif" width="30"/>
+  <img src="https://em-content.zobj.net/source/noto-emoji-animations/344/waving-hand_1f44b.gif" width="30"/>
 </h1>
 
 
