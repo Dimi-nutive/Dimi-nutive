@@ -10,7 +10,7 @@
 
 
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
+  <img src="https://i.pinimg.com/originals/15/e7/e3/15e7e300166c962d3b8a22f60b5cac9e.gif"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.youtube.com/channel/UCvGrL7OlwM6yGTvOq8k4x1A">
