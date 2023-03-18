@@ -57,7 +57,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   
 ---
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Dimi-nutive)](https://github.com/Dimi-nutive/github-readme-stats)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Dimi-nutive&show_icons=true&theme=radical)
 
 ### :fire: My Stats :  
 
