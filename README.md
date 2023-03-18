@@ -31,8 +31,8 @@
 
 ### :man_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: Python and HtmL are my expertise.
-- :seedling: A Web and bot developer
+- :telescope: Python and HtmL + CSS are my expertise.
+- :seedling: A Web developer who is interested in AI
 
 - :zap: In my free time, I solve problems on StackOverflow, play typeracer, read tech articles :) 
 
@@ -56,6 +56,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   
   
 ---
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Dimi-nutive)](https://github.com/Dimi-nutive/github-readme-stats)
 
 ### :fire: My Stats :  
 
