@@ -31,7 +31,7 @@
 ### :man_technologist: About Me :
 I am Basically a Web Developer and AI entusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - :telescope: Python and HtmL + CSS are my expertise.
-- :seedling: A Web developer who is interested in AI
+- :seedling: Trying to make an alexa skill for discord
 
 - :zap: In my free time, I solve problems on StackOverflow, play typeracer, read tech articles :) 
 
