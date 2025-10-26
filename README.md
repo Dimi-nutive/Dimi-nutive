@@ -12,10 +12,6 @@
 <div align="center">
   <img src="https://i.pinimg.com/originals/15/e7/e3/15e7e300166c962d3b8a22f60b5cac9e.gif" width= "500"/>
 </div>
-<div id="badges" align="center">
-  <a href="https://www.youtube.com/channel/UCvGrL7OlwM6yGTvOq8k4x1A">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
   <a href="https://discord.gg/p7j8XZq25B">
     <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
@@ -29,8 +25,6 @@
 ----------------------------------------------------------------------------------------------------------------------
 
 ### :man_technologist: About Me :
-I am Basically a Web Developer and AI entusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: Python and HtmL + CSS are my expertise.
 - :seedling: Trying to make an alexa skill for discord 
 
 - :mailbox:How to reach me: Gmail - akulchaudhary07@gmail.com
