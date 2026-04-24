@@ -49,7 +49,7 @@
   
 ---
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Dimi-nutive&show_icons=true&theme=radical)
+
 
 ### :fire: My Stats :  
 
