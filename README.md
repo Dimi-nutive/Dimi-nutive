@@ -15,7 +15,7 @@
   <a href="https://discord.gg/p7j8XZq25B">
     <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/akul-chaudhary-06869529a/">
+  
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=YOUR_LINKEDIN_URL" alt="linkedin Badge"/>
   </a>
 </div>
