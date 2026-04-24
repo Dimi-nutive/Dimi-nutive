@@ -27,7 +27,7 @@
 ### :man_technologist: About Me :
 - :seedling: Trying to make an alexa skill for discord 
 
-- :mailbox:How to reach me: Gmail - akulchaudhary07@gmail.com
+- :mailbox:How to reach me: Gmail - akul
 
 ---
 
